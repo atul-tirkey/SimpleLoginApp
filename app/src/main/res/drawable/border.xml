@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+    //editText background.
+    <solid android:color="#00000000" />
+    //editText border.
+    <stroke android:width="1dip" android:color="#ffffff" />
+</selector>
